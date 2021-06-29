@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "762248576643",
+    "firebase_url": "https://grocery-store-app-666ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "grocery-store-app-666ae",
+    "storage_bucket": "grocery-store-app-666ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762248576643:android:aa346c55152cf35dff65b6",
+        "android_client_info": {
+          "package_name": "com.business.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762248576643-7nfraodhkiggq3qr2821mucv111o8q2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.groceryapp",
+            "certificate_hash": "6e96d37bda582be67b3be8d61e98b9ba89cc7c1f"
+          }
+        },
+        {
+          "client_id": "762248576643-b9fch4pb2bat7em584cl4c1b4gl8lfvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tne_obpPR3yNt4eD57Nus6lX1wguMrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762248576643-b9fch4pb2bat7em584cl4c1b4gl8lfvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762248576643:android:e0ae8c898bbfd887ff65b6",
+        "android_client_info": {
+          "package_name": "com.business.grocerystoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762248576643-b9fch4pb2bat7em584cl4c1b4gl8lfvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tne_obpPR3yNt4eD57Nus6lX1wguMrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762248576643-b9fch4pb2bat7em584cl4c1b4gl8lfvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
